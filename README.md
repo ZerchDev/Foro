@@ -1,2 +1,2 @@
 # Foro
-Desarrollo backend de un foro
+API REST para un foro utilizando Java y Spring Boot. El objetivo era crear una aplicación que permitiera listar, crear, y eliminar tópicos, simulando un foro online. Utilizamos Insomnia para probar nuestros endpoints (GET para listar, POST para crear, DELETE para eliminar). Un punto clave fue la implementación de seguridad con JSON Web Tokens (JWT) para proteger los endpoints de acceso no autorizado.
